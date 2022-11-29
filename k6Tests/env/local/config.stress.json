@@ -1,0 +1,9 @@
+{
+  "vus": 5,
+  "duration": "10s",
+  "tags": {
+    "environment": "local",
+    "api_name": "Fcma.Template.Api",
+    "test_type": "stress"
+  }
+}

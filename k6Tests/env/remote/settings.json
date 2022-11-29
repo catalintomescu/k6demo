@@ -1,0 +1,18 @@
+{
+  "SETTINGS": {
+    "baseUrl": "https://someapi.com/v1"
+  },
+
+  "TEST_FILTERS": {
+    "enabled": false,
+    "startsWith": null,
+    "endsWith": null,
+    "contains": null,
+    "regex": null
+  },
+
+  "ENVIRONMENT": {
+    "execution": "remote",
+    "optionsSet": "load"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "vus": 1,
+  "duration": "5s",
+  "tags": {
+    "environment": "remote",
+    "api_name": "Fcma.Template.Api",
+    "test_type": "load"
+  }
+}
